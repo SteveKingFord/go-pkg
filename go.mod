@@ -1,3 +1,3 @@
-module github.com/SteveKingFord/gopkg
+module SteveKingFord/go-pkg
 
 go 1.16
